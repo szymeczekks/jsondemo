@@ -1,60 +1,60 @@
 [
     {
-        id: 1,
-        name: "Wycieczka do Budapesztu",
-        image: "http://localhost:5173/src/assets/budapest.jpg",
-        places: {
+        "id": 1,
+        "name": "Wycieczka do Budapesztu",
+        "image": "http://localhost:5173/src/assets/budapest.jpg",
+        "places": {
             "2025-06-10": [
                 {
-                    name: "Budynek Parlamentu",
-                    cords: "Budapest, Kossuth Lajos tér 1-3, 1055 Węgry",
-                    description: "Piękne miejsce ośweitlone wieczorem.",
-                    time: "12:48:00"
+                    "name": "Budynek Parlamentu",
+                    "cords": "Budapest, Kossuth Lajos tér 1-3, 1055 Węgry",
+                    "description": "Piękne miejsce ośweitlone wieczorem.",
+                    "time": "12:48:00"
                 },
                 {
-                    name: "Baszta Rybacka",
-                    cords: "Budapest, 1014 Węgry",
-                    description: "Piękna architektura i krajobraz. Duży obiekt pełen niespodzianek. Miejsce bardzo malownicze i doskonałe do różnych sesji zdjęciowych.",
-                    time: "14:48:00"
-                },
+                    "name": "Baszta Rybacka",
+                    "cords": "Budapest, 1014 Węgry",
+                    "description": "Piękna architektura i krajobraz. Duży obiekt pełen niespodzianek. Miejsce bardzo malownicze i doskonałe do różnych sesji zdjęciowych.",
+                    "time": "14:48:00"
+                }
             ],
             "2025-06-11": [
                 {
-                    name: "Bazylika św. Stefana w Budapeszcie",
-                    cords: "Budapest, Szent István tér 1, 1051 Węgryy",
-                    description: "Bazylika jest bardzo ładna. Nie zapowiada się tak pięknie z zewnątrz, ale w środku robi wrażenie.",
-                    time: "14:30:00"
-                },
+                    "name": "Bazylika św. Stefana w Budapeszcie",
+                    "cords": "Budapest, Szent István tér 1, 1051 Węgryy",
+                    "description": "Bazylika jest bardzo ładna. Nie zapowiada się tak pięknie z zewnątrz, ale w środku robi wrażenie.",
+                    "time": "14:30:00"
+                }
             ]
         }
     },
     {
-        id: 2,
-        name: "Wycieczka na wyspę Rodos w Grecji i coś jeszcze ",
-        image: "http://localhost:5173/src/assets/rodos.jpg",
-        places: {
+        "id": 2,
+        "name": "Wycieczka na wyspę Rodos w Grecji i coś jeszcze ",
+        "image": "http://localhost:5173/src/assets/rodos.jpg",
+        "places": {
             "2025-06-10": [
                 {
-                    name: "Zamek Wielkich Mistrzów",
-                    cords: "Ippoton, Rodos 851 00, Grecja",
-                    description: "Zamek naprawdę robi wrażenie swoim rozmachem, chociaż trzeba pamiętać że został odbudowany w 1940 roku przez Włochów.",
-                    time: "12:48:00"
+                    "name": "Zamek Wielkich Mistrzów",
+                    "cords": "Ippoton, Rodos 851 00, Grecja",
+                    "description": "Zamek naprawdę robi wrażenie swoim rozmachem, chociaż trzeba pamiętać że został odbudowany w 1940 roku przez Włochów.",
+                    "time": "12:48:00"
                 },
                 {
-                    name: "Kameiros",
-                    cords: "Τοπική Κοινότητα Σαλάκου, Kameiros 851 06, Grecja",
-                    description: "Fajne miejsce.",
-                    time: "14:48:00"
-                },
+                    "name": "Kameiros",
+                    "cords": "Τοπική Κοινότητα Σαλάκου, Kameiros 851 06, Grecja",
+                    "description": "Fajne miejsce.",
+                    "time": "14:48:00"
+                }
             ],
             "2025-06-11": [
                 {
-                    name: "Akropol w Lindos",
-                    cords: "Acropolis of Lindos, Lindos 851 07, Grecja",
-                    description: "Warto zwiedzić Akropol, bardzo ciekawe miejsce, a widoki piękne.",
-                    time: "14:30:00"
-                },
+                    "name": "Akropol w Lindos",
+                    "cords": "Acropolis of Lindos, Lindos 851 07, Grecja",
+                    "description": "Warto zwiedzić Akropol, bardzo ciekawe miejsce, a widoki piękne.",
+                    "time": "14:30:00"
+                }
             ]
-        },
+        }
     }
 ]
