@@ -1,5 +1,4 @@
-[
-    {
+{
         "id": 1,
         "name": "Wycieczka do Budapesztu",
         "image": "http://localhost:5173/src/assets/budapest.jpg",
@@ -27,34 +26,4 @@
                 }
             ]
         }
-    },
-    {
-        "id": 2,
-        "name": "Wycieczka na wyspę Rodos w Grecji i coś jeszcze ",
-        "image": "http://localhost:5173/src/assets/rodos.jpg",
-        "places": {
-            "2025-06-10": [
-                {
-                    "name": "Zamek Wielkich Mistrzów",
-                    "cords": "Ippoton, Rodos 851 00, Grecja",
-                    "description": "Zamek naprawdę robi wrażenie swoim rozmachem, chociaż trzeba pamiętać że został odbudowany w 1940 roku przez Włochów.",
-                    "time": "12:48:00"
-                },
-                {
-                    "name": "Kameiros",
-                    "cords": "Τοπική Κοινότητα Σαλάκου, Kameiros 851 06, Grecja",
-                    "description": "Fajne miejsce.",
-                    "time": "14:48:00"
-                }
-            ],
-            "2025-06-11": [
-                {
-                    "name": "Akropol w Lindos",
-                    "cords": "Acropolis of Lindos, Lindos 851 07, Grecja",
-                    "description": "Warto zwiedzić Akropol, bardzo ciekawe miejsce, a widoki piękne.",
-                    "time": "14:30:00"
-                }
-            ]
-        }
     }
-]
